@@ -9,10 +9,10 @@
   "names": [
     {
       "C": "US",
-      "L": "Portland",
-      "O": "Kubernetes",
-      "OU": "CA",
-      "ST": "Oregon"
+      "L": "Menlo Park",
+      "O": "Lex Machina",
+      "OU": "Vault CA",
+      "ST": "California"
     }
   ]
 }
